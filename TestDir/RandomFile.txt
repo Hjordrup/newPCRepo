@@ -1,0 +1,2 @@
+Wow a text adden with nano run thourg bash in powershell
+
